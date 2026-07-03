@@ -1,0 +1,16 @@
+{
+  "wheel_id": 20,
+  "slug": "garage-door-repairs-north-brisbane-mr-150",
+  "project": "garage-door-repairs-north-brisbane-guide",
+  "parent_t1_ref": "garage-door-repairs-north-brisbane-mr",
+  "money_target": "garagedoorrepairsnorthbrisbane.com.au",
+  "primary_kw": "garage door repairs north brisbane guide",
+  "intended_url": "https://garage-door-repairs-north-brisbane-guide.vercel.app/",
+  "links": [
+    {
+      "target_url": "https://pressranger.com/media-rooms/garage-door-repairs-north-brisbane",
+      "anchor": "garage door repairs north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
